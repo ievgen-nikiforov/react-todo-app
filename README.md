@@ -5,8 +5,7 @@ filter them by completion status, and view task details and owner information.
 
 ## Live Preview
 
-A live demo URL has not been verified. To preview the app locally, follow the
-setup instructions below and open the URL printed by the development server.
+[View on GitHub Pages](https://ievgen-nikiforov.github.io/react-todo-app/)
 
 ## Technologies Used
 
